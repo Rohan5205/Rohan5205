@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Rohan Shetty 👋
 
-<!--
-**Rohan5205/Rohan5205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Business Analytics  
+📊 Aspiring Data Analyst | Business Intelligence Enthusiast  
 
-Here are some ideas to get you started:
+I enjoy working with data to discover insights and build dashboards that support data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+
+Programming
+- Python
+- R
+- SQL
+
+Data Analysis
+- Pandas
+- NumPy
+- Statistical Modeling
+- Time Series Analysis
+
+Visualization
+- Power BI
+- Tableau
+- Excel
+- Matplotlib
+- Seaborn
+
+---
+
+## 📂 Featured Projects
+
+Netflix Content Analysis  
+IPL Performance Dashboard  
+Heart Disease Prediction  
+University Ranking Analysis  
+
+---
+
+## 📫 Contact Me
+
+LinkedIn: https://www.linkedin.com/in/rohan-shetty-99a43331a/  
+Email: shettyrohan890@gmail.com
