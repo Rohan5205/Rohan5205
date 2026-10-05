@@ -1,6 +1,6 @@
 # Hi, I'm Rohan Shetty 👋
 
-🎓 Master's Student in Business Analytics  
+🎓 MSc Business Analytics (Completed) | MAHE Manipal 
 📊 Aspiring Data Analyst | Business Intelligence Enthusiast  
 
 I enjoy working with data to discover insights and build dashboards that support data-driven decision making.
